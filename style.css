@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: black;
+}
+
+footer  {
+    background-color: black;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+.footer-heading {
+    text-align: center;
+    color: white;
+    font-family: "Permanent Marker", sans-serif;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.footer-paragraph {
+    text-align: center;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+}
+
+.content-overview {
+    padding: 0;
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+}
+
+.social-links {
+    text-align: center;
+    font-size: 30px;
+    padding: 0;
+}
+
+.social-link {
+    color: white;
+    font-size: 50px;
+}
+
+.social-link:hover {
+    color: #df1f2c;
+}
+
+.fa-facebook-f:before, .fa-facebook:before {
+    padding-right: 20px;
+}
+
+.fa-instagram:before {
+    padding-left: 20px;
+}
+
+
+.dib-homepage-title {
+    font-family: "Permanent Marker", sans-serif;
+    padding-top: 20px;
+}
+
+#dib-template-2 .dib-pagination-next {
+    float: right;
+    font-family: "Permanent Marker", sans-serif;
+    font-size: 25px;
+}
+
+.dib-cat-menu a{
+    font-family: "Permanent Marker", sans-serif;
+    color: black;
+    font-size: 25px;
+}
