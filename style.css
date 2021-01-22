@@ -79,6 +79,15 @@ footer  {
     font-size: 25px;
 }
 
+.dib-pagination-next:hover {
+    color: black;
+}
+
+.dib-pagination-prev:hover {
+    color: black;
+}
+
+
 .dib-cat-menu a{
     font-family: "Permanent Marker", sans-serif;
     color: black;
