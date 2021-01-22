@@ -73,9 +73,9 @@ footer  {
     padding-top: 20px;
 }
 
-#dib-template-2 .dib-pagination-next {
-    float: right;
+.dib-pagination-next, .dib-pagination-prev {
     font-family: "Permanent Marker", sans-serif;
+    color: black;
     font-size: 25px;
 }
 
