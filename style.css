@@ -97,3 +97,7 @@ img, .logo {
     color: black;
     font-size: 25px;
 }
+
+.dib-post-featured-image {
+    margin-top: 0px;
+}
